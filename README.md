@@ -15,13 +15,13 @@ npm run dev
 Once its completed. Open the app in your browser register a new user and start using it.
 
 ```bash
-git clone github.com:NourGithub/Laravel-Real-Time-Chat.git
+git clone github.com:mohamednourdine/Laravel-Real-Time-Chat.git
 ```
 
 If you use https, use this instead
 
 ```bash
-git clone https://github.com/NourGithub/Laravel-Real-Time-Chat.git
+git clone https://github.com/mohamednourdine/Laravel-Real-Time-Chat.git
 ```
 
 After cloning,run:
